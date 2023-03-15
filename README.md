@@ -1,2 +1,3 @@
-# webassembly.memory
-ram memory emulator
+# webassembly.loto
+
+loto numbers
