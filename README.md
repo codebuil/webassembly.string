@@ -1,3 +1,3 @@
-# webassembly.loto
+# webassembly.string
 
-loto numbers
+string copy
